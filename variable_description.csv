@@ -1,0 +1,56 @@
+Variable,Data Type,Example Value
+Bearer Id,object,13114483460844900352
+Start,datetime64[ns],2019-04-04 12:01:18
+Start ms,float64,770.0
+End,datetime64[ns],2019-04-25 14:35:31
+End ms,float64,662.0
+Dur. (ms),float64,1823652.0
+IMSI,float64,208201448079117.0
+MSISDN/Number,float64,33664962239.0
+IMEI,float64,35521209507511.0
+Last Location Name,object,9164566995485190
+Avg RTT DL (ms),float64,42.0
+Avg RTT UL (ms),float64,5.0
+Avg Bearer TP DL (kbps),float64,23.0
+Avg Bearer TP UL (kbps),float64,44.0
+TCP DL Retrans. Vol (Bytes),float64,
+TCP UL Retrans. Vol (Bytes),float64,
+DL TP < 50 Kbps (%),float64,100.0
+50 Kbps < DL TP < 250 Kbps (%),float64,0.0
+250 Kbps < DL TP < 1 Mbps (%),float64,0.0
+DL TP > 1 Mbps (%),float64,0.0
+UL TP < 10 Kbps (%),float64,100.0
+10 Kbps < UL TP < 50 Kbps (%),float64,0.0
+50 Kbps < UL TP < 300 Kbps (%),float64,0.0
+UL TP > 300 Kbps (%),float64,0.0
+HTTP DL (Bytes),float64,
+HTTP UL (Bytes),float64,
+Activity Duration DL (ms),float64,37624.0
+Activity Duration UL (ms),float64,38787.0
+Dur. (ms).1,float64,1823652892.0
+Handset Manufacturer,object,Samsung
+Handset Type,object,Samsung Galaxy A5 Sm-A520F
+Nb of sec with 125000B < Vol DL,float64,
+Nb of sec with 1250B < Vol UL < 6250B,float64,
+Nb of sec with 31250B < Vol DL < 125000B,float64,
+Nb of sec with 37500B < Vol UL,float64,
+Nb of sec with 6250B < Vol DL < 31250B,float64,
+Nb of sec with 6250B < Vol UL < 37500B,float64,
+Nb of sec with Vol DL < 6250B,float64,213.0
+Nb of sec with Vol UL < 1250B,float64,214.0
+Social Media DL (Bytes),float64,1545765.0
+Social Media UL (Bytes),float64,24420.0
+Google DL (Bytes),float64,1634479.0
+Google UL (Bytes),float64,1271433.0
+Email DL (Bytes),float64,3563542.0
+Email UL (Bytes),float64,137762.0
+Youtube DL (Bytes),float64,15854611.0
+Youtube UL (Bytes),float64,2501332.0
+Netflix DL (Bytes),float64,8198936.0
+Netflix UL (Bytes),float64,9656251.0
+Gaming DL (Bytes),float64,278082303.0
+Gaming UL (Bytes),float64,14344150.0
+Other DL (Bytes),float64,171744450.0
+Other UL (Bytes),float64,8814393.0
+Total UL (Bytes),float64,36749741.0
+Total DL (Bytes),float64,308879636.0
